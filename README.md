@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi, I'm Gabriele
+
+Check out who I am and what I'm working on at [gpatta.github.io](https://gpatta.github.io)
 
 <!--
-**GPatta/GPatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gpatta/gpatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,6 +13,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
